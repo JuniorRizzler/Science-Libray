@@ -1,0 +1,7 @@
+{
+  "name": "Copy of copy of Appleby Grade 9 Science Library",
+  "description": "A comprehensive, interactive study library for Grade 9 Science, featuring flashcards, quizzes, and an AI tutor powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
